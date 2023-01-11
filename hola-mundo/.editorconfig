@@ -1,0 +1,12 @@
+# Identacion 
+indent_style = tab
+# Espacios que tabula
+tab_width = 2
+# Tipo de salto de linea
+end_of_line = lf
+# Introducir un salto de línea al final
+insert_final_newline = true
+# Configurar tipo de letras
+charset = utf-8
+# Quitar espacios al final de las líneas
+trim_trailing_whitespace = true
